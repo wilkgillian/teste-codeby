@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/src/assets/images/codetrufas.svg" />
+  <img src="/src/assets/images/codetrufas.svg" width="400px" />
 </p>
 
 <h1 align="center">codeby trufas</h1>
