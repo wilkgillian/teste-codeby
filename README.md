@@ -1,16 +1,81 @@
-<div align="center"><img src='/src/assets/images/codetrufas.svg'/></div>
+<p align="center">
+  <img src="/src/assets/images/codetrufas.svg" />
+</p>
 
 <h1 align="center">codeby trufas</h1>
-<h4>O usuario deveria escolher o produto e de acordo com o valor da compra (se fosse > 10) teria direito a frete grátis</h4>
+<p align="center">Carrinho de compras para uma loja de trufas</p>
 
-[Sobre](#sobre)</br>
-[Tabela de conteúdo](#tabela-de-conteudo)</br>
-   [Instalação](#instalacao)</br>
-Como visualizar o projeto? 😕 </h5>
+<br />
 
-<h5>⚠️ primeiramente você deve ter o node instalado em sua máquina, e o npm ou yarn, juntamente com o git!</h5>
-<h6>1 - faça a clonagem deste repositório</h6>
-<h6>2 - rode o comando yarn install ou npm install para instalar as dependências</h6>
-<h6>3 - rode o comando yarn server ou npm server para iniciar o servidor</h6>
-<h6>4 - inicie um novo terminal e rode o comando yarn start ou npm start </h6>
-pronto visualize o projeto em seu navegador
+<p align="left">
+<a href="#requisitos-pedidos-pela-empresa">Requisitos pedidos pela empresa</a></br>
+<a href="#layout-a-ser-seguido">Layout a ser seguido</a></br>
+<a href="#o-que-foi-desenvolvido">O que foi desenvolvido</a></br>
+<a href="#funcionalidades">Funcionalidades</a></br>
+<a href="#como-visualizar-a-aplicacao">Como visualizar a aplicação</a></br>
+</p>
+
+# Obejtivos do teste
+
+- Desenvolver um “Carrinho de compras” usando uma API.
+- Listar os produtos, exibir o total da compra e exibir uma mensagem informando se o pedido possui frete grátis.
+
+# Requisitos pedidos pela empresa
+
+- Listar os produtos provenientes da API.
+- Os produtos devem ter imagem, nome e preço.
+- Exibir ao fim da lista o valor total de todos os produtos.
+- Exibir o texto de frete grátis dependendo do valor do carrinho.
+- O texto de frete grátis deverá aparecer apenas se o valor for acima de **R$ 10,00.**
+- Seguir o layout.
+- Usar Flex-Box CSS.
+- Utilizar ReactJS
+- Enviar o link do teste no Github.
+- Hospedá-lo em algum local (Netlify CMS, Vercel, Heroku ou outra opção)
+
+# Layout a ser seguido
+
+<img src="/src/assets/images/abaixo-de-10" width="50%"/>
+<img src="/src/assets/images/abaixo-de-10" width="50%"/>
+
+# O que foi desenvolvido
+
+<img src="/src/assets/images/codeby.gif"/>
+
+# Funcionalidades
+
+- Todas as solicitadas pela empresa
+- Excluir produtos do carrinho
+- Controle de estoque
+- Limitar a adição de produtos caso o estoque esteja vazio
+- Layout modificado
+
+</br><h2>⚠️Obs: para rodar a aplicação em sua máquina é necessário ter o node instalado, npm ou yarn e o git</h2></br>
+
+# Como visualizar a aplicação
+
+1º clone este repositório na sua máquina:
+
+```sh
+git clone
+```
+
+2º instale as dependencias com o comando:
+
+```sh
+yarn install ou npm install
+```
+
+3º inicie o servidor com o comando:
+
+```sh
+yarn server ou npm server
+```
+
+4º inicie a aplicação com o comando:
+
+```sh
+yarn start ou npm start
+```
+
+Visualize no seu navegador.
