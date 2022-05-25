@@ -35,8 +35,8 @@
 
 # Layout a ser seguido
 
-<img src="/src/assets/images/abaixo-de-10" width="50%"/>
-<img src="/src/assets/images/abaixo-de-10" width="50%"/>
+<img src="/src/assets/images/abaixo-de-10.jpg" width="50%"/>
+<img src="/src/assets/images/acima-de-10.jpg" width="50%"/>
 
 # O que foi desenvolvido
 
