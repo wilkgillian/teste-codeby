@@ -1,4 +1,4 @@
-<div align="center"><img src='/src/assets/images/codetrufas.svg'/></div>
+<div align="center" height="100px"><img src='/src/assets/images/codetrufas.svg'/></div>
 
 <h1 align="center">codeby trufas</h1>
 <h4>O usuario deveria escolher o produto e de acordo com o valor da compra (se fosse > 10) teria direito a frete grátis</h4>
