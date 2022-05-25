@@ -35,7 +35,7 @@
 
 # Layout a ser seguido
 
-<div align="center">
+<div display="flex" align="center">
 <img src="/src/assets/images/abaixo-de-10.jpg" width="50%"/>
 <img src="/src/assets/images/acima-de-10.jpg" width="50%"/>
 </div>
