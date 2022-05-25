@@ -3,7 +3,10 @@
 <h1 align="center">codeby trufas</h1>
 <h4>O usuario deveria escolher o produto e de acordo com o valor da compra (se fosse > 10) teria direito a frete grátis</h4>
 
-<h5>Como visualizar o projeto? 😕 </h5>
+[Sobre](#sobre)
+[Tabela de conteúdo](#tabela-de-conteudo)
+   [Instalação](#instalacao)
+Como visualizar o projeto? 😕 </h5>
 
 <h5>⚠️ primeiramente você deve ter o node instalado em sua máquina, e o npm ou yarn, juntamente com o git!</h5>
 <h6>1 - faça a clonagem deste repositório</h6>
