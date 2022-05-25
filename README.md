@@ -36,14 +36,14 @@
 # Layout a ser seguido
 
 <div align="center">
-<img src="/src/assets/images/abaixo-de-10.jpg" width="200px"/>
-<img src="/src/assets/images/acima-de-10.jpg" width="200px"/>
+<img src="/src/assets/images/abaixo-de-10.jpg" width="400px"/>
+<img src="/src/assets/images/acima-de-10.jpg" width="400px"/>
 </div>
   
 # O que foi desenvolvido
 
 <div align="center">
-<img src="/src/assets/images/codeby.gif" width="400px"/>
+<img src="/src/assets/images/codeby.gif" width="800px"/>
 </div>
   
 # Funcionalidades
