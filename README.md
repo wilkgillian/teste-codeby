@@ -35,9 +35,11 @@
 
 # Layout a ser seguido
 
+<div align="center">
 <img src="/src/assets/images/abaixo-de-10.jpg" width="50%"/>
 <img src="/src/assets/images/acima-de-10.jpg" width="50%"/>
-
+</div>
+  
 # O que foi desenvolvido
 
 <img src="/src/assets/images/codeby.gif"/>
