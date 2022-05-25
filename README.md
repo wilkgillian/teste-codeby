@@ -20,7 +20,7 @@
 - Desenvolver um “Carrinho de compras” usando uma API.
 - Listar os produtos, exibir o total da compra e exibir uma mensagem informando se o pedido possui frete grátis.
 
-# Requisitos pedidos pela empresa 🤔
+# Requisitos pedidos pela empresa
 
 - Listar os produtos provenientes da API.
 - Os produtos devem ter imagem, nome e preço.
