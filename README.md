@@ -12,7 +12,7 @@
 <a href="#layout-a-ser-seguido">Layout a ser seguido</a></br>
 <a href="#o-que-foi-desenvolvido">O que foi desenvolvido</a></br>
 <a href="#funcionalidades">Funcionalidades</a></br>
-<a href="#como-visualizar-a-aplicacao">Como visualizar a aplicação</a></br>
+<a href="#como-visualizar">Como visualizar</a></br>
 </p>
 
 # Obejtivos do teste
@@ -56,7 +56,7 @@
 
 </br><h2>⚠️Obs: para rodar a aplicação em sua máquina é necessário ter o node instalado, npm ou yarn e o git</h2></br>
 
-# Como visualizar a aplicação
+# Como visualizar
 
 1º clone este repositório na sua máquina:
 
