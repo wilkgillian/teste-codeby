@@ -1,0 +1,80 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    },
+    {
+      "id": 7,
+      "amount": 4
+    },
+    {
+      "id": 8,
+      "amount": 15
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Trufa BENDITO CACAU 55% CACAU 30 G",
+      "price": 3.03,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159959-800-1029/truffon-meio-amargo.png?v=636930938547630000"
+    },
+    {
+      "id": 2,
+      "title": "TRUFA MORANGO",
+      "price": 1.23,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159939-800-1029/trufa-morango-30g.png?v=636916431597070000"
+    },
+    {
+      "id": 3,
+      "title": "TRUFA TRADICIONAL 30 G",
+      "price": 3.03,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159942-800-1029/trufa-tradicional.png?v=636916452526400000"
+    },
+    {
+      "id": 5,
+      "title": "TRUFA DE COCO 30 G",
+      "price": 3.03,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159957-800-1029/trufa-coco.png?v=636929369885800000"
+    },
+    {
+      "id": 6,
+      "title": "TRUFA BRANCO 30G",
+      "price": 1.10,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159993-800-1029/trufa-branco.png?v=636945743710500000"
+    },
+    {
+      "id": 7,
+      "title": "TRUFA MEZZO 30 G",
+      "price": 3.03,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159941-800-1029/mezzo.png?v=636916443729870000"
+    },
+    {
+      "id": 8,
+      "title": "TRUFA MORANGO E MARACUJÁ 13,5 G",
+      "price": 1.10,
+      "image": "http://codeby.vteximg.com.br/arquivos/ids/159936-800-1029/Trufa-Morango-e-Maracuja.png?v=636915614811230000"
+    }
+  ]
+}
