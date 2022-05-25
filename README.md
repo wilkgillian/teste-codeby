@@ -3,9 +3,9 @@
 <h1 align="center">codeby trufas</h1>
 <h4>O usuario deveria escolher o produto e de acordo com o valor da compra (se fosse > 10) teria direito a frete grátis</h4>
 
-[Sobre](#sobre)
-[Tabela de conteúdo](#tabela-de-conteudo)
-   [Instalação](#instalacao)
+[Sobre](#sobre)</br>
+[Tabela de conteúdo](#tabela-de-conteudo)</br>
+   [Instalação](#instalacao)</br>
 Como visualizar o projeto? 😕 </h5>
 
 <h5>⚠️ primeiramente você deve ter o node instalado em sua máquina, e o npm ou yarn, juntamente com o git!</h5>
