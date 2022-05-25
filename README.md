@@ -35,15 +35,17 @@
 
 # Layout a ser seguido
 
-<div display="flex" align="center">
-<img src="/src/assets/images/abaixo-de-10.jpg" width="50%"/>
-<img src="/src/assets/images/acima-de-10.jpg" width="50%"/>
+<div align="center">
+<img src="/src/assets/images/abaixo-de-10.jpg" width="200px"/>
+<img src="/src/assets/images/acima-de-10.jpg" width="200px"/>
 </div>
   
 # O que foi desenvolvido
 
-<img src="/src/assets/images/codeby.gif"/>
-
+<div align="center">
+<img src="/src/assets/images/codeby.gif" width="400px"/>
+</div>
+  
 # Funcionalidades
 
 - Todas as solicitadas pela empresa
